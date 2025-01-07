@@ -1,6 +1,6 @@
 node_modules/
-/test-results/
-/playwright-report/
 /blob-report/
 /playwright/.cache/
 .DS_Store
+tests/todos_uitest.spec.js
+tests/test.spec.js
